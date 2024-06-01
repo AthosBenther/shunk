@@ -1,3 +1,6 @@
+
+<img src="https://cdn-icons-png.flaticon.com/512/6239/6239695.png" width="75">
+
 # shunk
 
 Separates Targa files RGB channels into discreete files.  
